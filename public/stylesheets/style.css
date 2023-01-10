@@ -1,0 +1,34 @@
+#login{
+margin: auto;
+  display:grid;
+  place-items: center;
+  background: rgba(255, 255, 255, 0.29);
+ box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.466);
+  border-radius: 30px;
+  border: 1px solid rgb(255, 255, 255);
+  margin-top: 6em;
+}
+body{
+  overflow: hidden;
+}
+#password{
+  
+  width: 50vw;
+  height: 6vh;
+  border-radius: 10px;
+  border: none;
+}
+#email{
+  width: 50vw;
+  height: 6vh;
+  border-radius: 10px;
+  border: none;
+}
+#sub-btn{
+  background-color: rgba(255, 255, 255, 0.516);
+  border: 2px solid rgb(66, 65, 65);
+  border-radius: 20px;
+}
+#h1-1{
+  font-weight: 400;
+}
